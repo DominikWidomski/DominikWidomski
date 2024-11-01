@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DominikWidomski
 - 👀 I’m interested in web development, decentralised web, music, games.
-- 🌱 I’m currently learning web 3 development
-- 💞️ I’m looking to collaborate on open source dev ex, blockchain, etc.
+- 🌱 I’m currently learning AI development (around the LLM space)
+- 💞️ I’m looking to collaborate on open source projects AI, React, games, DevEx etc.
 - 📫 Reach me on twitter.com/dominikwidomski
 
 <!---
